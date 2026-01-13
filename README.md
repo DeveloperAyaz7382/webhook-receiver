@@ -14,5 +14,5 @@ and prevents duplicate events using idempotency.
 
 ### 1. Clone Repo
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/DeveloperAyaz7382/webhook-receiver.git>
 cd webhook-receiver
